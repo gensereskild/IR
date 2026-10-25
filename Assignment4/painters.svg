@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="970" viewBox="0 0 1060 970" role="img" aria-labelledby="title desc">
+<title id="title">Painters: Wikipedia link graph</title>
+<desc id="desc">Fourteen equally sized numbered nodes represent the painter pages in the legend. Fifty directed arrows represent links from source to destination. Positions are supplied by scikit-network; node size does not encode a score.</desc>
+<rect width="1060" height="970" fill="white"/>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L7,3.5 L0,7 Z" fill="#64748b"/></marker></defs>
+<g fill="none" stroke="#64748b" stroke-width="1.3" stroke-opacity="0.65" marker-end="url(#arrow)">
+<path data-source="0" data-target="3" d="M413.82,142.66 Q296.38,148.60 186.05,179.59"><title>Pablo Picasso to Edouard Manet</title></path>
+<path data-source="0" data-target="10" d="M413.86,140.43 Q366.12,136.57 324.53,153.47"><title>Pablo Picasso to Henri Matisse</title></path>
+<path data-source="1" data-target="3" d="M101.92,292.88 Q141.03,253.09 159.72,203.71"><title>Claude Monet to Edouard Manet</title></path>
+<path data-source="1" data-target="12" d="M102.48,316.55 Q137.82,349.26 181.19,361.83"><title>Claude Monet to Pierre-Auguste Renoir</title></path>
+<path data-source="2" data-target="9" d="M180.15,751.70 Q217.64,816.16 271.70,863.09"><title>Michel Angelo to Leonardo da Vinci</title></path>
+<path data-source="3" data-target="0" d="M183.78,184.14 Q301.22,178.20 411.55,147.21"><title>Edouard Manet to Pablo Picasso</title></path>
+<path data-source="3" data-target="1" d="M154.88,197.12 Q115.77,236.91 97.08,286.29"><title>Edouard Manet to Claude Monet</title></path>
+<path data-source="3" data-target="7" d="M163.37,201.65 Q139.86,315.64 142.36,429.00"><title>Edouard Manet to Edgar Degas</title></path>
+<path data-source="3" data-target="11" d="M176.74,198.79 Q202.74,234.87 240.02,253.04"><title>Edouard Manet to Paul Cezanne</title></path>
+<path data-source="3" data-target="12" d="M167.17,202.00 Q168.85,278.92 193.68,348.56"><title>Edouard Manet to Pierre-Auguste Renoir</title></path>
+<path data-source="4" data-target="2" d="M265.45,638.88 Q224.40,681.80 185.42,722.55"><title>Peter Paul Rubens to Michel Angelo</title></path>
+<path data-source="4" data-target="5" d="M287.25,640.31 Q315.49,678.83 355.38,699.13"><title>Peter Paul Rubens to Rembrandt</title></path>
+<path data-source="4" data-target="9" d="M275.82,643.54 Q267.01,751.98 283.65,856.45"><title>Peter Paul Rubens to Leonardo da Vinci</title></path>
+<path data-source="5" data-target="2" d="M356.37,710.60 Q272.40,722.60 191.40,734.17"><title>Rembrandt to Michel Angelo</title></path>
+<path data-source="5" data-target="4" d="M363.15,694.49 Q334.91,655.97 295.02,635.67"><title>Rembrandt to Peter Paul Rubens</title></path>
+<path data-source="5" data-target="8" d="M374.55,691.25 Q385.80,549.57 370.59,411.28"><title>Rembrandt to Vincent van Gogh</title></path>
+<path data-source="5" data-target="9" d="M365.43,723.32 Q330.00,792.20 295.95,858.41"><title>Rembrandt to Leonardo da Vinci</title></path>
+<path data-source="6" data-target="0" d="M673.70,69.83 Q560.40,103.40 449.98,136.12"><title>Gustav Klimt to Pablo Picasso</title></path>
+<path data-source="6" data-target="13" d="M685.54,81.41 Q663.11,164.03 665.44,246.61"><title>Gustav Klimt to Egon Schiele</title></path>
+<path data-source="7" data-target="1" d="M136.95,433.04 Q116.40,377.00 96.89,323.78"><title>Edgar Degas to Claude Monet</title></path>
+<path data-source="7" data-target="2" d="M144.49,465.92 Q157.20,593.00 169.61,717.10"><title>Edgar Degas to Michel Angelo</title></path>
+<path data-source="7" data-target="3" d="M146.23,432.35 Q169.74,318.36 167.24,205.00"><title>Edgar Degas to Edouard Manet</title></path>
+<path data-source="7" data-target="8" d="M159.67,446.93 Q259.31,434.73 349.81,398.78"><title>Edgar Degas to Vincent van Gogh</title></path>
+<path data-source="7" data-target="11" d="M151.71,434.52 Q200.40,355.40 247.52,278.83"><title>Edgar Degas to Paul Cezanne</title></path>
+<path data-source="7" data-target="12" d="M156.18,438.52 Q183.85,416.85 194.05,386.37"><title>Edgar Degas to Pierre-Auguste Renoir</title></path>
+<path data-source="8" data-target="0" d="M372.52,374.91 Q399.60,266.60 425.95,161.20"><title>Vincent van Gogh to Pablo Picasso</title></path>
+<path data-source="8" data-target="1" d="M352.16,386.36 Q229.20,348.20 109.10,310.93"><title>Vincent van Gogh to Claude Monet</title></path>
+<path data-source="8" data-target="4" d="M362.25,407.25 Q322.80,509.00 284.43,607.95"><title>Vincent van Gogh to Peter Paul Rubens</title></path>
+<path data-source="8" data-target="5" d="M367.05,408.35 Q355.80,550.03 371.01,688.32"><title>Vincent van Gogh to Rembrandt</title></path>
+<path data-source="8" data-target="7" d="M351.53,393.47 Q251.89,405.67 161.39,441.62"><title>Vincent van Gogh to Edgar Degas</title></path>
+<path data-source="8" data-target="10" d="M366.04,374.57 Q351.68,272.28 313.59,179.50"><title>Vincent van Gogh to Henri Matisse</title></path>
+<path data-source="8" data-target="11" d="M357.38,378.46 Q313.20,326.60 270.97,277.02"><title>Vincent van Gogh to Paul Cezanne</title></path>
+<path data-source="9" data-target="2" d="M278.25,861.50 Q240.76,797.04 186.70,750.11"><title>Leonardo da Vinci to Michel Angelo</title></path>
+<path data-source="9" data-target="4" d="M288.18,859.26 Q296.99,750.82 280.35,646.35"><title>Leonardo da Vinci to Peter Paul Rubens</title></path>
+<path data-source="10" data-target="0" d="M322.94,162.37 Q370.68,166.23 412.27,149.33"><title>Henri Matisse to Pablo Picasso</title></path>
+<path data-source="10" data-target="3" d="M289.25,163.89 Q236.40,173.00 186.51,181.60"><title>Henri Matisse to Edouard Manet</title></path>
+<path data-source="10" data-target="8" d="M308.36,177.83 Q322.72,280.12 360.81,372.90"><title>Henri Matisse to Vincent van Gogh</title></path>
+<path data-source="10" data-target="11" d="M294.96,173.93 Q268.46,204.95 261.62,242.13"><title>Henri Matisse to Paul Cezanne</title></path>
+<path data-source="10" data-target="12" d="M298.26,176.13 Q253.20,264.20 209.51,349.60"><title>Henri Matisse to Pierre-Auguste Renoir</title></path>
+<path data-source="11" data-target="0" d="M271.96,252.10 Q344.40,201.80 414.37,153.21"><title>Paul Cezanne to Pablo Picasso</title></path>
+<path data-source="11" data-target="1" d="M241.54,266.03 Q174.00,283.40 109.37,300.02"><title>Paul Cezanne to Claude Monet</title></path>
+<path data-source="11" data-target="3" d="M248.06,248.01 Q222.06,211.93 184.78,193.76"><title>Paul Cezanne to Edouard Manet</title></path>
+<path data-source="11" data-target="10" d="M269.04,248.87 Q295.54,217.85 302.38,180.67"><title>Paul Cezanne to Henri Matisse</title></path>
+<path data-source="11" data-target="12" d="M249.86,276.72 Q229.20,314.60 209.98,349.84"><title>Paul Cezanne to Pierre-Auguste Renoir</title></path>
+<path data-source="12" data-target="1" d="M187.92,355.85 Q152.58,323.14 109.21,310.57"><title>Pierre-Auguste Renoir to Claude Monet</title></path>
+<path data-source="12" data-target="3" d="M200.03,350.40 Q198.35,273.48 173.52,203.84"><title>Pierre-Auguste Renoir to Edouard Manet</title></path>
+<path data-source="12" data-target="4" d="M205.23,383.70 Q238.80,497.00 271.52,607.42"><title>Pierre-Auguste Renoir to Peter Paul Rubens</title></path>
+<path data-source="12" data-target="7" d="M187.02,377.88 Q159.35,399.55 149.15,430.03"><title>Pierre-Auguste Renoir to Edgar Degas</title></path>
+<path data-source="13" data-target="6" d="M670.46,250.19 Q692.89,167.57 690.56,84.99"><title>Egon Schiele to Gustav Klimt</title></path>
+<path data-source="13" data-target="8" d="M650.32,273.17 Q517.20,329.00 386.84,383.67"><title>Egon Schiele to Vincent van Gogh</title></path>
+</g><g font-family="Arial, sans-serif">
+<g><title>Pablo Picasso</title><circle cx="430.80" cy="141.80" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="430.80" y="146.80" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">1</text></g>
+<g><title>Claude Monet</title><circle cx="90.00" cy="305.00" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="90.00" y="310.00" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">2</text></g>
+<g><title>Michel Angelo</title><circle cx="171.60" cy="737.00" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="171.60" y="742.00" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">3</text></g>
+<g><title>Edouard Manet</title><circle cx="166.80" cy="185.00" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="166.80" y="190.00" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">4</text></g>
+<g><title>Peter Paul Rubens</title><circle cx="277.20" cy="626.60" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="277.20" y="631.60" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">5</text></g>
+<g><title>Rembrandt</title><circle cx="373.20" cy="708.20" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="373.20" y="713.20" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">6</text></g>
+<g><title>Gustav Klimt</title><circle cx="690.00" cy="65.00" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="690.00" y="70.00" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">7</text></g>
+<g><title>Edgar Degas</title><circle cx="142.80" cy="449.00" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="142.80" y="454.00" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">8</text></g>
+<g><title>Vincent van Gogh</title><circle cx="368.40" cy="391.40" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="368.40" y="396.40" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">9</text></g>
+<g><title>Leonardo da Vinci</title><circle cx="286.80" cy="876.20" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="286.80" y="881.20" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">10</text></g>
+<g><title>Henri Matisse</title><circle cx="306.00" cy="161.00" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="306.00" y="166.00" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">11</text></g>
+<g><title>Paul Cezanne</title><circle cx="258.00" cy="261.80" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="258.00" y="266.80" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">12</text></g>
+<g><title>Pierre-Auguste Renoir</title><circle cx="200.40" cy="367.40" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="200.40" y="372.40" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">13</text></g>
+<g><title>Egon Schiele</title><circle cx="666.00" cy="266.60" r="17" fill="#eef6ff" stroke="#2563a6" stroke-width="1.7"/><text x="666.00" y="271.60" text-anchor="middle" font-size="15" font-weight="bold" fill="#17385c">14</text></g>
+<text x="755" y="82" font-size="23" font-weight="bold" fill="#17385c">Painters</text>
+<text x="755" y="110" font-size="15" fill="#475569">14 pages · 50 directed links</text>
+<text x="755" y="158" font-size="16" fill="#17385c"><tspan font-weight="bold"> 1.</tspan> Pablo Picasso</text>
+<text x="755" y="194" font-size="16" fill="#17385c"><tspan font-weight="bold"> 2.</tspan> Claude Monet</text>
+<text x="755" y="230" font-size="16" fill="#17385c"><tspan font-weight="bold"> 3.</tspan> Michel Angelo</text>
+<text x="755" y="266" font-size="16" fill="#17385c"><tspan font-weight="bold"> 4.</tspan> Edouard Manet</text>
+<text x="755" y="302" font-size="16" fill="#17385c"><tspan font-weight="bold"> 5.</tspan> Peter Paul Rubens</text>
+<text x="755" y="338" font-size="16" fill="#17385c"><tspan font-weight="bold"> 6.</tspan> Rembrandt</text>
+<text x="755" y="374" font-size="16" fill="#17385c"><tspan font-weight="bold"> 7.</tspan> Gustav Klimt</text>
+<text x="755" y="410" font-size="16" fill="#17385c"><tspan font-weight="bold"> 8.</tspan> Edgar Degas</text>
+<text x="755" y="446" font-size="16" fill="#17385c"><tspan font-weight="bold"> 9.</tspan> Vincent van Gogh</text>
+<text x="755" y="482" font-size="16" fill="#17385c"><tspan font-weight="bold">10.</tspan> Leonardo da Vinci</text>
+<text x="755" y="518" font-size="16" fill="#17385c"><tspan font-weight="bold">11.</tspan> Henri Matisse</text>
+<text x="755" y="554" font-size="16" fill="#17385c"><tspan font-weight="bold">12.</tspan> Paul Cezanne</text>
+<text x="755" y="590" font-size="16" fill="#17385c"><tspan font-weight="bold">13.</tspan> Pierre-Auguste Renoir</text>
+<text x="755" y="626" font-size="16" fill="#17385c"><tspan font-weight="bold">14.</tspan> Egon Schiele</text>
+<text x="755" y="710" font-size="14" fill="#475569">Arrow: source page → linked page.</text>
+<text x="755" y="734" font-size="14" fill="#475569">All nodes have the same size.</text>
+<text x="755" y="758" font-size="14" fill="#475569">Numbers identify the legend entries.</text>
+<text x="45" y="930" font-size="13" fill="#64748b">Data and layout: scikit-network painters graph. Attribution and licence: PAINTERS_LICENSE.txt.</text>
+</g></svg>
